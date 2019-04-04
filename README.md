@@ -1,5 +1,5 @@
 # Sports-Store
 | ASP .NET MVC|Bootstrap|
 |--|--|
-# Project available on:
+## Aplikacja dostępna pod adresem:
 http://sportsstore.somee.com/
